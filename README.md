@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi 👋, I'm Rasika Abhang
+💻 AI & Backend Developer
 
-<!--
-**rabhang093/rabhang093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning
+Machine Learning, FastAPI, and AI Integration
 
-Here are some ideas to get you started:
+👨‍💻 All of my projects are available at
+👉 https://github.com/rabhang093
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me
+👉 rabhang093@gmail.com
+
+🌐 Connect with me
+LinkedIn: https://www.linkedin.com/in/rasikaabhang09/
+
+Languages and Tools:
+<img src="https://skillicons.dev/icons?i=python,fastapi,openai,git,github,html,css,js,react,nodejs,mysql,postgres,docker,aws,figma" />
