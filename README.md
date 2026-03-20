@@ -1,5 +1,12 @@
-Hi 👋, I'm Rasika Abhang
-💻 AI & Backend Developer
+<h1 align="center">Hi 👋, I'm Rasika Abhang</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF5733&center=true&vCenter=true&width=600&lines=AI+%26+Backend+Developer;FastAPI+Developer;Building+Real+World+AI+Projects;Always+Learning+New+Things" />
+</p>
+
+---
+
+### 💻 AI & Backend Developer
 
 🌱 I’m currently learning
 Machine Learning, FastAPI, and AI Integration
@@ -8,10 +15,29 @@ Machine Learning, FastAPI, and AI Integration
 👉 https://github.com/rabhang093
 
 📫 How to reach me
-👉 rabhang093@gmail.com
+👉 [rabhang093@gmail.com](mailto:rabhang093@gmail.com)
 
 🌐 Connect with me
-LinkedIn: https://www.linkedin.com/in/rasikaabhang09/
+👉 https://www.linkedin.com/in/rasikaabhang09/
 
-Languages and Tools:
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,openai,git,github,html,css,js,react,nodejs,mysql,postgres,docker,aws,figma" />
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabhang093&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+⭐ *Always learning and building real-world AI systems*
+
+
