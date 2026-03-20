@@ -30,11 +30,12 @@ Machine Learning, FastAPI, and AI Integration
 
 ---
 
-## 🔥 Top Languages
+## 💼 Technical Skills  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabhang093&layout=compact&theme=radical&hide_border=true" />
-</p>
+- **Languages:** Python, Java, JavaScript  
+- **Backend:** FastAPI, REST APIs  
+- **Frontend:** HTML, CSS, React.js  
+- **AI:** OpenAI GPT, Regex-based NLP  
 
 ---
 
